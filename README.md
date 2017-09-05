@@ -11,15 +11,11 @@ Enhancements:
 
 ## Prerequsites
 
-These software must be installed before hand:
-
 * Node.js (and NPM) `https://nodejs.org`
 * Truffle `$ npm install -g truffle`
 * Testrpc (or any ethereum client) `$ npm install -g ethereumjs-testrpc`
 
 ## Setup
-
-Steps to run this app in development:
 
 1. Run private ethereum network in a console `$ testrpc`
 1. Open another console, clone this repo, enter and install node.js dependencies `$ npm install`
